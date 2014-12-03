@@ -2,7 +2,16 @@ Live Templates & Files Templates Python Odoo (formerly OpenERP) for Pycharm.
 This branch is just a mirror of https://launchpad.net/pycharmtemplateopenerp
 
 
-# Install live templates
+# Install live templates Pycharm 4 on Mac OSX Yosemite
+
+Templates 
+``` ~/Library/Preferences/PyCharm40/templates/ ```
+
+# Install file templates Pycharm 4 on Mac OSX Yosemite
+``` ```
+
+
+# Install live templates Linux
 
 Template python Odoo
 ```
@@ -20,6 +29,7 @@ cp ./templates/html_xml.xml /home/[user]/.PyCharm30/config/templates/html_xml.xm
 ```
 cp ./fileTemplates/*.py /home/[user]/.PyCharm30/config/fileTemplates/*.py
 ```
+
 
 Restart Pycharm
 
